@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BigRationalDemo/1.0.0": {
+        "dependencies": {
+          "BigRationalLib": "1.0.0"
+        },
+        "runtime": {
+          "BigRationalDemo.dll": {}
+        }
+      },
+      "BigRationalLib/1.0.0": {
+        "runtime": {
+          "BigRationalLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BigRationalDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BigRationalLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
