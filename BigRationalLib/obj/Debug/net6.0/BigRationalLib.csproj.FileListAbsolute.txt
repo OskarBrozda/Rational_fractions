@@ -1,0 +1,12 @@
+/Users/oskarbrozda/GitHub/Rational_fractions/BigRationalLib/bin/Debug/net6.0/BigRationalLib.deps.json
+/Users/oskarbrozda/GitHub/Rational_fractions/BigRationalLib/bin/Debug/net6.0/BigRationalLib.dll
+/Users/oskarbrozda/GitHub/Rational_fractions/BigRationalLib/bin/Debug/net6.0/BigRationalLib.pdb
+/Users/oskarbrozda/GitHub/Rational_fractions/BigRationalLib/obj/Debug/net6.0/BigRationalLib.csproj.AssemblyReference.cache
+/Users/oskarbrozda/GitHub/Rational_fractions/BigRationalLib/obj/Debug/net6.0/BigRationalLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oskarbrozda/GitHub/Rational_fractions/BigRationalLib/obj/Debug/net6.0/BigRationalLib.AssemblyInfoInputs.cache
+/Users/oskarbrozda/GitHub/Rational_fractions/BigRationalLib/obj/Debug/net6.0/BigRationalLib.AssemblyInfo.cs
+/Users/oskarbrozda/GitHub/Rational_fractions/BigRationalLib/obj/Debug/net6.0/BigRationalLib.csproj.CoreCompileInputs.cache
+/Users/oskarbrozda/GitHub/Rational_fractions/BigRationalLib/obj/Debug/net6.0/BigRationalLib.dll
+/Users/oskarbrozda/GitHub/Rational_fractions/BigRationalLib/obj/Debug/net6.0/refint/BigRationalLib.dll
+/Users/oskarbrozda/GitHub/Rational_fractions/BigRationalLib/obj/Debug/net6.0/BigRationalLib.pdb
+/Users/oskarbrozda/GitHub/Rational_fractions/BigRationalLib/obj/Debug/net6.0/ref/BigRationalLib.dll
