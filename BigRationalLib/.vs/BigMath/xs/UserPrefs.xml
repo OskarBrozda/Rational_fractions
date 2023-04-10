@@ -1,28 +1,29 @@
 ﻿<Properties StartupConfiguration="{838401CF-5985-4E97-A607-B914FDCC5F0B}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../BigRationalDemo/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.BigRationalDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BigRationalConversions.cs">
     <Files>
       <File FileName="../BigRationalDemo/Program.cs" Line="16" Column="49" />
-      <File FileName="../BigRationalDemo/Aps.cs" Line="29" Column="31" />
+      <File FileName="../BigRationalDemo/Aps.cs" />
+      <File FileName="BigRationalConversions.cs" Line="25" Column="46" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BigMath" expanded="True">
-            <Node name="BigRationalDemo" expanded="True">
-              <Node name="Program.cs" selected="True" />
+            <Node name="BigRationalDemo" expanded="True" />
+            <Node name="BigRationalLib" expanded="True">
+              <Node name="BigRationalConversions.cs" selected="True" />
             </Node>
-            <Node name="BigRationalLib" expanded="True" />
             <Node name="BigRationalTests" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.BigRationalDemo PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
